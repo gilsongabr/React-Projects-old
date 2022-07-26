@@ -1,2 +1,2 @@
 # React-Projects
-Projetos com a finalidade de aprender React
+Projetos React para estudo.
